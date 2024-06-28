@@ -15,4 +15,4 @@ Worked hands-on with product and tech teams being part of activities such as:
 
 I have an unwavering passion for research and development, problem-solving, and helping people. My background is steeped in high-performance teams, and I am motivated to beat and surpass the goals from each quarter. I continuously seek opportunities for professional growth and am committed to staying updated with the latest industry trends and developments.
 
-Learn more about technologies at [coding4fun.com.br](https://coding4fun.com.br)
+Learn more about technologies at [ryanpadilha.com.br](https://ryanpadilha.com.br)
