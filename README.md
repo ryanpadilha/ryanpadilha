@@ -12,7 +12,7 @@ How can I contribute?
 - Strategic technology advisor, connecting business and technical skills.
 - Designing and restructuring cloud platforms using AWS and associated services.
 - Architectural best practices in cloud-native applications and microservices.
-- Hands-on coding in Java, Scala, Python, Javascript, and Flutter.
+- Hands-on coding in Java, Scala, Python, Typescript, and Dart.
 - Teaching, mentoring, guiding, and developing professionals to drive rapid growth.
 - Enterprise message integration using Apache Kafka, RabbitMQ, AWS SQS, and EventBridge.
 
